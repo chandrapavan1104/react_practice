@@ -1,0 +1,39 @@
+.homepage {
+    text-align: center;
+  }
+  
+  .header {
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .website-name {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .background {
+    /* Add styles for cool background */
+    background-color: #f0f0f0; /* Example background color */
+    height: 300px; /* Example height */
+  }
+  
+  .navigation {
+    margin-top: 20px;
+  }
+  
+  .nav-link {
+    margin: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #333; /* Sensible color */
+  }
+  
+  .nav-link:hover {
+    color: #666; /* Color on hover */
+  }
+  
